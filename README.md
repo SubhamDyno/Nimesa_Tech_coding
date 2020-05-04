@@ -1,4 +1,4 @@
 # Nimesa_Tech_coding
 
-To geerate html file -
+To generate html file -
 __pytest --html=report.html__
